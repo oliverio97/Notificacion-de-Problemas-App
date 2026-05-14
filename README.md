@@ -2,6 +2,7 @@
 
 ## Descripción General
 Esta aplicación está diseñada para gestionar y reportar incidencias asociadas a los distintos activos de la organización. Facilita el seguimiento del inventario y la rápida notificación de problemas, optimizando los tiempos de respuesta y el mantenimiento del equipamiento.
+
 <img width="1119" height="639" alt="image" src="https://github.com/user-attachments/assets/9246835a-cebb-4d0b-8261-78b7b12faaed" />
 
 ## Funcionalidades Principales
