@@ -2,12 +2,16 @@
 
 ## Descripción General
 Esta aplicación está diseñada para gestionar y reportar incidencias asociadas a los distintos activos de la organización. Facilita el seguimiento del inventario y la rápida notificación de problemas, optimizando los tiempos de respuesta y el mantenimiento del equipamiento.
+<img width="1119" height="639" alt="image" src="https://github.com/user-attachments/assets/9246835a-cebb-4d0b-8261-78b7b12faaed" />
 
 ## Funcionalidades Principales
 * **Catálogo de Activos:** Visualización en formato de galería de los diferentes elementos registrados en el sistema (hardware, vehículos, mobiliario, etc.).
 * **Gestión de Detalles (Ficha de Activo):** Formulario interactivo vinculado que permite visualizar, editar y actualizar la información específica del activo seleccionado en tiempo real.
 * **Registro de Incidencias:** Interfaz estructurada para notificar nuevos problemas de forma ágil, vinculándolos directamente al activo correspondiente.
 * **Navegación Intuitiva:** Interfaz Canvas optimizada para transiciones fluidas entre la vista general del inventario y el formulario de detalles.
+<img width="1105" height="621" alt="image" src="https://github.com/user-attachments/assets/fd23d375-0d1d-4877-a833-c4d2f8297955" />
+
+<img width="1111" height="623" alt="image" src="https://github.com/user-attachments/assets/b76492b7-6464-42df-8de0-0f70c6dc10c7" />
 
 ## Tecnologías Empleadas
 * **Microsoft Power Apps:** Desarrollo de la interfaz de usuario (Canvas App).
